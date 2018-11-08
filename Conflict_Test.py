@@ -1,4 +1,4 @@
 def test():
-	print ("what's up")
+	print ("nothing much.")
 
 test()
